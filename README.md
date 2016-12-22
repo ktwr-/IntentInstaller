@@ -1,0 +1,5 @@
+# IntentInstaller
+
+AndroidでIntentを使ってSDカードにあるAPKをインストールしたり
+package名を取得しアプリをアンインストールするアプリのソースコード
+.classpathとかも含めているのでeclipseとかで起動できるはず(未確認)
